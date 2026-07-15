@@ -1,0 +1,73 @@
+* {
+	font-family: "Courier New", monospace;
+}
+
+nav {
+	padding: 16px;
+	margin-bottom: 4px;
+	background-color: grey;
+}
+
+.navlink {
+	margin-left: 5px;
+	margin-right: 5px;
+	color: red;
+}
+
+a {
+	text-decoration: none;
+}
+
+#Landing {
+	text-align: center;
+}
+
+#profile {
+	height: 300px;
+	width: 300px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#name {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#title{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#intro {
+	width: 200px;
+	margin: auto;}
+
+#Tools {
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#toolstitle {
+	margin-bottom: 10px;
+}
+
+.toolsimg {
+	height: 100px;
+	width: 100px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#projects{
+text-align: center;
+}
+
+.class{
+	background-color: pink;
+	height: 400px;
+	width: 600px;
+	margin-right: auto;
+	margin-left: auto;
+}
